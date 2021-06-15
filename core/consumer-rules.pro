@@ -77,5 +77,5 @@ public *;
 *** rewind();
 }
 
--keepnames class androidx.fragment.app.Fragment
+-keepnames class androidx.fragment.app.Fragment.*
 -keepnames class androidx.navigation.fragment.NavHostFragment
