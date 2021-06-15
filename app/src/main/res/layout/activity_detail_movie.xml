@@ -96,7 +96,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginStart="16dp"
                         android:layout_marginTop="10dp"
-                        android:text="@string/year"
+                        android:text="@string/release_date"
                         android:textSize="20sp"
                         android:textStyle="bold" />
 
